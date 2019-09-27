@@ -1,3 +1,3 @@
-def cube(x)
+def cube(x):
 	d = x*x*x
 	return d
